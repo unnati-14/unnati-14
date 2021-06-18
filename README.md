@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Unnati 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **on some reactjs projects**
+- 🔭 I’m currently working **on some reactjs projects**
 
 - 🌱 I’m currently learning **everything**
 
