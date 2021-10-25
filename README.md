@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **on some reactjs projects**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **dsa**
 
 - 📫 How to reach me **singhunnati1401@gmail.com**
 
